@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 
 ![Swarad's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarad07&show_icons=true&theme=tokyonight&count_private=true)
 
+![Swarad's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarad07&show_icons=true&theme=transparent&count_private=true)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarad07)
