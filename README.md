@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarad07&count_private=true&show_icons=true&theme=transparent)
+
+<a href="https://app.daily.dev/swarad"><img src="https://api.daily.dev/devcards/d2d712915dcd48cabef537480cee1836.png?r=f9u" width="400" alt="Swarad's Dev Card"/></a>
